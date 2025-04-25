@@ -4,15 +4,11 @@
     <test verbose="2"  name="APIAutomation">
         <classes>
 
-            <class name="com.thetestingacademy_25April.RA003">
+            <class name="com.thetestingacademy_25April.ApiTEstCase">
 
             </class>
         </classes>
 
-        <groups>
-            <run>
-                <include name="smoke"></include>
-            </run>
-        </groups>
+
     </test>
 </suite>
